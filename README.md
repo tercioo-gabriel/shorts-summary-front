@@ -1,6 +1,7 @@
 # shorts-summary-front
 
-*Front-End do projeto Shorts Summary* <br><br>
+*Front-End do projeto Shorts Summary*
+
 Projeto está um pouco desorganizado, o projeto está completo, porém a pasta frontend tem apenas arquivos repetidos do arquivos gerais, basicamente é uma cópia do frontend inteiro.
 
 Informações importantes:
