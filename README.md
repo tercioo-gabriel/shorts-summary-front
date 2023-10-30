@@ -2,7 +2,7 @@
 
 *Front-End do projeto Shorts Summary*
 
-Projeto está um pouco desorganizado, o projeto está completo, porém a pasta frontend tem apenas arquivos repetidos do arquivos gerais, basicamente é uma cópia do frontend inteiro.
+Projeto está completo mas um pouco desorganizado, por conta de que a pasta frontend tem apenas arquivos repetidos do arquivos gerais, basicamente é uma cópia do frontend inteiro.
 
 Informações importantes:
 - O projeto não tem o deploy pois a IA usada é muito pesada e as plataformas gratuitas não suportam o arquivo do Back-End.
